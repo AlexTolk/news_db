@@ -1,11 +1,12 @@
 {
-"status": "success",
--"results": [
--{
-"title": "30 Zentimeter höher als Silber: Stab-Gigant Duplantis geht nach Weltrekord komplett steil",
-"description": "Dieser Moment muss gefeiert werden: Armand \"Mondo\" Duplantis erfüllt sich in Paris seinen größten Stabhochsprung-Traum. Und soll nun einem Konkurrenten einen ausgeben. Der schwedische Superstar srpingt wie einst Sergej Bubka seit Jahren in seiner eigenen Liga.",
-"content": "Dieser Moment muss gefeiert werden: Armand",
-"image_url": "https://bilder1.n-tv.de/img/incoming/crop25139576/2608678637-cImg_4_3-w250/9148bf10dae5aeee771e3cfaa6fe04a9.jpg",
-},
-]
+  "status": "success",
+  "results": [
+    {
+      "title": "30 Zentimeter höher als Silber: Stab-Gigant Duplantis geht nach Weltrekord komplett steil",
+      "description": "Dieser Moment muss gefeiert werden: Armand \"Mondo\" Duplantis erfüllt sich in Paris seinen größten Stabhochsprung-Traum. Und soll nun einem Konkurrenten einen ausgeben. Der schwedische Superstar springt wie einst Sergej Bubka seit Jahren in seiner eigenen Liga.",
+      "content": "Dieser Moment muss gefeiert werden: Armand",
+      "image_url": "https://bilder1.n-tv.de/img/incoming/crop25139576/2608678637-cImg_4_3-w250/9148bf10dae5aeee771e3cfaa6fe04a9.jpg"
+    }
+  ]
 }
+
